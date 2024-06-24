@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a Software Developer with a focus on Artificial Intelligence and Machine Learning.
+      HI! I am Niran Subramanian. I’m a Software Developer with a focus on Artificial Intelligence and Machine Learning.
     subtitle: >-
       I am a motivated developer and eager learner. My core interests are Machine Learning, Fullstack development.
       Currently learning Devops.
